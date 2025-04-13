@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=db17295.public.databaseasp.net; Database=db17295; User Id=db17295; Password=7g@B=Kf32i%R; Encrypt=True; TrustServerCertificate=True; MultipleActiveResultSets=True; "
+  }
+}
+//Server=.;Database=ShoesStoreDB;Integrated Security=True;TrustServerCertificate=True

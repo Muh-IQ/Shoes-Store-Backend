@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\ShoesStore_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8189286A-0B95-457C-B282-68CCF190095F}|..\\DataAccess\\DataAccess.csproj|c:\\users\\asus\\desktop\\my_shoesstorebackend-5\\my_shoesstorebackend\\dataaccess\\basketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B502106D-5EDF-4E4C-9261-75D8F22B7E89}|ShoesStore_Project.csproj|c:\\users\\asus\\desktop\\my_shoesstorebackend-5\\my_shoesstorebackend\\shoesstore_project\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B502106D-5EDF-4E4C-9261-75D8F22B7E89}|ShoesStore_Project.csproj|solutionrelative:controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EC1DE0-ACF8-4446-9271-96C3B9E4D091}|..\\Business\\Business.csproj|c:\\users\\asus\\desktop\\my_shoesstorebackend-5\\my_shoesstorebackend\\business\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8189286A-0B95-457C-B282-68CCF190095F}|..\\DataAccess\\DataAccess.csproj|c:\\users\\asus\\desktop\\my_shoesstorebackend-5\\my_shoesstorebackend\\dataaccess\\dbconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08320550-42BC-4B7C-BB55-642B1360B3E1}|..\\Interfaces\\Interfaces.csproj|c:\\users\\asus\\desktop\\my_shoesstorebackend-5\\my_shoesstorebackend\\interfaces\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08320550-42BC-4B7C-BB55-642B1360B3E1}|..\\Interfaces\\Interfaces.csproj|c:\\users\\asus\\desktop\\my_shoesstorebackend-5\\my_shoesstorebackend\\interfaces\\repository\\ibasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbconfig.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\DataAccess\\dbconfig.json",
+              "RelativeDocumentMoniker": "..\\DataAccess\\dbconfig.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\DataAccess\\dbconfig.json",
+              "RelativeToolTip": "..\\DataAccess\\dbconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T20:15:39.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\Interfaces\\Services\\IBasketService.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\Services\\IBasketService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\Interfaces\\Services\\IBasketService.cs",
+              "RelativeToolTip": "..\\Interfaces\\Services\\IBasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:48:29.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBasket.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\Interfaces\\Repository\\IBasket.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\Repository\\IBasket.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\Interfaces\\Repository\\IBasket.cs",
+              "RelativeToolTip": "..\\Interfaces\\Repository\\IBasket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:46:14.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\Business\\BasketService.cs",
+              "RelativeDocumentMoniker": "..\\Business\\BasketService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\Business\\BasketService.cs",
+              "RelativeToolTip": "..\\Business\\BasketService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:31:46.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasketData.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\DataAccess\\BasketData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\BasketData.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\DataAccess\\BasketData.cs",
+              "RelativeToolTip": "..\\DataAccess\\BasketData.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwEEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:20:12.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\ShoesStore_Project\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\My_ShoesStoreBackEnd-5\\My_ShoesStoreBackEnd\\ShoesStore_Project\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Controllers\\BasketController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:26:09.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
